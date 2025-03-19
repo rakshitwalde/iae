@@ -13,13 +13,13 @@ This is a simple command-line calculator written in C++. It performs addition, s
 2.  **Compile the program:**
 
     ```bash
-    g++ src/main.cpp -o bin/calculator
+    clang++ src/main.cpp -o bin/calculator
     ```
 
 3.  **Run the calculator:**
 
     ```bash
-    bin/calculator
+    bin/iae
     ```
 
 4.  **Input:**
