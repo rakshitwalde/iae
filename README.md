@@ -11,23 +11,23 @@ This is a simple command-line calculator written in C++. It performs addition, s
     ```
 
 2.  **Make binary file directory:**
-3.  ```bash
+    ``bash
     mkdir /bin
     ```
 
-4.  **Compile the program:**
+3.  **Compile the program:**
 
     ```bash
     clang++ src/main.cpp -o bin/iae
     ```
 
-5.  **Run the calculator:**
+4.  **Run the calculator:**
 
     ```bash
     bin/iae
     ```
 
-6.  **Input:**
+5.  **Input:**
     * Enter a number followed by an operator (+, -, \*, /).
     * Repeat until you enter the '=' sign.
     * The calculator will then display the result.
