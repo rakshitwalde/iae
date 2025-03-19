@@ -19,13 +19,13 @@ This is a simple command-line calculator written in C++. It performs addition, s
 3.  **Make binary file directory:**
    
     ```bash
-    sudo mkdir /bin
+    sudo mkdir /bin/iae
     ```
 
 4.  **Compile the program:**
 
     ```bash
-    clang++ src/main.cpp -o bin/iae
+    clang++ src/main.cpp -o /bin/iae/iae
     ```
 
 5.  **Run the calculator:**
