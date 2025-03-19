@@ -11,7 +11,7 @@ This is a simple command-line calculator written in C++. It performs addition, s
     ```
 
 2.  **Make binary file directory:**
-    ``bash
+    ```bash
     mkdir /bin
     ```
 
