@@ -7,7 +7,7 @@ This is a simple command-line calculator written in C++. It performs addition, s
 1.  **Clone the repository:**
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/rakshitwalde/iae
     ```
 
 2.  **Compile the program:**
