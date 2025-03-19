@@ -31,7 +31,7 @@ This is a simple command-line calculator written in C++. It performs addition, s
 5.  **Run the calculator:**
 
     ```bash
-    bin/iae
+    /bin/iae
     ```
 
 6.  **Input:**
