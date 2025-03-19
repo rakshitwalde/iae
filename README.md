@@ -25,7 +25,7 @@ This is a simple command-line calculator written in C++. It performs addition, s
 4.  **Compile the program:**
 
     ```bash
-    clang++ src/main.cpp -o /bin/iae
+    sudo clang++ src/main.cpp -o /bin/iae
     ```
 
 5.  **Run the calculator:**
