@@ -1,4 +1,4 @@
-# Command-Line Calculator
+# IAE (Iterative Arithmetic Engine)
 
 This is a simple command-line calculator written in C++. It performs addition, subtraction, multiplication, and division based on user input.
 
