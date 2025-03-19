@@ -13,7 +13,7 @@ This is a simple command-line calculator written in C++. It performs addition, s
 2.  **Compile the program:**
 
     ```bash
-    clang++ src/main.cpp -o bin/calculator
+    clang++ src/main.cpp -o bin/iae
     ```
 
 3.  **Run the calculator:**
