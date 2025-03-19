@@ -28,22 +28,6 @@ This is a simple command-line calculator written in C++. It performs addition, s
     * The calculator will then display the result.
     * You will be asked if you want to perform another calculation.
 
-## Example
-Enter a number: 10
-Enter the operation (+, -, *, /, =): +
-Enter a number: 5
-Enter the operation (+, -, *, /, =): *
-Enter a number: 2
-Enter the operation (+, -, *, /, =): =
-Result: 30
-Do you want to continue? (y/n): y
-Enter a number: 20
-Enter the operation (+, -, *, /, =): /
-Enter a number: 4
-Enter the operation (+, -, *, /, =): =
-Result: 5
-Do you want to continue? (y/n): n
-
 ## Features
 
 * Performs basic arithmetic operations (+, -, \*, /).
