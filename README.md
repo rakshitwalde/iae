@@ -10,19 +10,24 @@ This is a simple command-line calculator written in C++. It performs addition, s
     git clone https://github.com/rakshitwalde/iae
     ```
 
-2.  **Compile the program:**
+2.  **Make binary file directory:**
+3.  ```bash
+    mkdir /bin
+    ```
+
+4.  **Compile the program:**
 
     ```bash
     clang++ src/main.cpp -o bin/iae
     ```
 
-3.  **Run the calculator:**
+5.  **Run the calculator:**
 
     ```bash
     bin/iae
     ```
 
-4.  **Input:**
+6.  **Input:**
     * Enter a number followed by an operator (+, -, \*, /).
     * Repeat until you enter the '=' sign.
     * The calculator will then display the result.
