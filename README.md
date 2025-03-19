@@ -19,7 +19,7 @@ This is a simple command-line calculator written in C++. It performs addition, s
 3.  **Make binary file directory:**
    
     ```bash
-    mkdir /bin
+    sudo mkdir /bin
     ```
 
 4.  **Compile the program:**
