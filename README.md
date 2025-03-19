@@ -30,7 +30,7 @@ This is a simple command-line calculator written in C++. It performs addition, s
 
 ## Example
 Enter a number: 10
->Enter the operation (+, -, *, /, =): +
+Enter the operation (+, -, *, /, =): +
 Enter a number: 5
 Enter the operation (+, -, *, /, =): *
 Enter a number: 2
